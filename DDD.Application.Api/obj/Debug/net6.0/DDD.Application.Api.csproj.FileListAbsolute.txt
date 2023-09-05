@@ -1,0 +1,141 @@
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\Aula\Documents\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Infra.MemoryDb.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.DDD.Application.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DDD.Application.Api.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DDD.Application.Api.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DDD.Application.Api.props
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\scopedcss\bundle\DDD.Application.Api.styles.css
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.csproj.CopyComplete
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\refint\DDD.Application.Api.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\DDD.Application.Api.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Application.Api\obj\Debug\net6.0\ref\DDD.Application.Api.dll
