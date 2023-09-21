@@ -1,4 +1,4 @@
-﻿using DDD.Domain;
+﻿using DDD.Domain.SecretariaContext;
 using DDD.Infra.SQLServer.Interfaces;
 using DDD.Infra.SQLServer.Repositories;
 using Microsoft.AspNetCore.Mvc;
@@ -19,14 +19,16 @@ namespace DDD.Application.Api.Controllers
         [HttpGet("{id}")]
         public ActionResult<Matricula> GetbyId(int id)
         {
-            return Ok(_matriculaRepository.GetMatricula(id));
+            //return Ok(_matriculaRepository.GetMatricula(id));
+            throw new NotImplementedException();
         }
 
         [HttpPost]
         public ActionResult<Matricula> CreateMatricula(Matricula matricula)
         {
-            _matriculaRepository.fazerMatricula(matricula);
-            return CreatedAtAction(nameof(GetbyId), new { id = matricula.Id }, matricula);
+            //_matriculaRepository.fazerMatricula(matricula);
+            //return CreatedAtAction(nameof(GetbyId), new { id = matricula.Id }, matricula);
+            throw new NotImplementedException();
         }
 
 

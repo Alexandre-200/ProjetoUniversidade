@@ -1,11 +1,11 @@
-﻿using DDD.Domain;
-using DDD.Infra.SQLServer.Interfaces;
+﻿using DDD.Infra.SQLServer.Interfaces;
 using DDD.Infra.SQLServer;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DDD.Domain.SecretariaContext;
 
 namespace DDD.Infra.SQLServer.Repositories
 {

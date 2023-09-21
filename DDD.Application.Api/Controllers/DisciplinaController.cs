@@ -1,4 +1,4 @@
-﻿using DDD.Domain;
+﻿using DDD.Domain.SecretariaContext;
 using DDD.Infra.SQLServer.Interfaces;
 using DDD.Infra.SQLServer.Repositories;
 using Microsoft.AspNetCore.Mvc;

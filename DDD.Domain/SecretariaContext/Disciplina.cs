@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace DDD.Domain
+namespace DDD.Domain.SecretariaContext
 {
     public class Disciplina
     {

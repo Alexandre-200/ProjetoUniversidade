@@ -1,4 +1,4 @@
-using DDD.Domain;
+using DDD.Domain.SecretariaContext;
 using DDD.Infra.SQLServer.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -32,7 +32,7 @@ namespace DDD.Application.Api.Controllers
         public ActionResult<Aluno> CreateAluno(Aluno aluno)
         {
             _alunoRepository.InsertAluno(aluno);
-            return CreatedAtAction(nameof(GetbyId), new { id = aluno.Id }, aluno);
+            return CreatedAtAction(nameof(GetbyId), new { id = aluno.UserId }, aluno);
         }
 
         [HttpPut]

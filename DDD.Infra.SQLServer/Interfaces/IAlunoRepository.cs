@@ -1,5 +1,4 @@
-using DDD.Domain;
-
+using DDD.Domain.SecretariaContext;
 
 namespace DDD.Infra.SQLServer.Interfaces
 {

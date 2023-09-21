@@ -1,9 +1,7 @@
-
-using DDD.Domain;
 using DDD.Infra.SQLServer.Interfaces;
 using DDD.Infra.SQLServer;
 using Microsoft.EntityFrameworkCore;
-
+using DDD.Domain.SecretariaContext;
 
 namespace DDD.Infra.SQLServer.Repositories
 {
@@ -37,7 +35,7 @@ namespace DDD.Infra.SQLServer.Repositories
 
         public List<Aluno> GetAlunos()
         {
-            var list = _context.Alunos.Include(x => x.Disciplinas).ToList();
+            var list = _context.Alunos.ToList();
             return list;
         }
 
