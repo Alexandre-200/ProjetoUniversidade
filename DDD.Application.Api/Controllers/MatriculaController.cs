@@ -11,6 +11,14 @@ namespace DDD.Application.Api.Controllers
     {
         readonly IMatriculaRepository _matriculaRepository;
 
+        /*
+        
+        mesmo a interface IMatriculaRepository não tendo uma implementação
+        ela fornece uma instancia de MatriculaRepository, veja Program.cs 
+        pois essa é a classe que fornece a instancia de MatriculaRepository
+        
+        */
+
         public MatriculaController(IMatriculaRepository matriculaRepository)
         {
             _matriculaRepository = matriculaRepository;

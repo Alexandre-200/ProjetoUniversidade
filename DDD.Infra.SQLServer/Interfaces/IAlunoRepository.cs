@@ -2,6 +2,10 @@ using DDD.Domain.SecretariaContext;
 
 namespace DDD.Infra.SQLServer.Interfaces
 {
+    /*
+    contrato com todos os metodos que devem ser implementados
+    pelas classes que implementarem essa interface
+    */
     public interface IAlunoRepository
     {
         public List<Aluno> GetAlunos();

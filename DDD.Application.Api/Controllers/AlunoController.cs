@@ -1,22 +1,29 @@
 using DDD.Domain.SecretariaContext;
 using DDD.Infra.SQLServer.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DDD.Application.Api.Controllers
 {
+    //classe que cria os end points
     [Route("api/[controller]")]
-    [ApiController]
+    [ApiController] 
     public class AlunoController : ControllerBase
     {
+        
         readonly IAlunoRepository _alunoRepository;
+
+        /*
+        Em program.cs deixamos claro que quando IAlunoRepository 
+        (onde temos apenas as assinaturas dos metodos) for utilizado 
+        na verdade estamos instanciando AlunoRepositorySqlServer
+        (classe que implementa a interface, logo implementou seus metodos         
+        */
 
         public AlunoController(IAlunoRepository alunoRepository)
         {
             _alunoRepository = alunoRepository;
         }
 
-        // GET: api/<AlunosController>
         [HttpGet]
         public ActionResult<List<Aluno>> Get()
         {
@@ -45,7 +52,7 @@ namespace DDD.Application.Api.Controllers
                     return BadRequest();
                 }
                 _alunoRepository.UpdateAluno(aluno);
-                return Ok("Aluno Atualizado com Sucesso");
+                return Ok("Aluno Atualizado.");
             }
             catch (Exception)
             {
@@ -64,7 +71,7 @@ namespace DDD.Application.Api.Controllers
                     return BadRequest();
                 }
                 _alunoRepository.DeleteAluno(aluno);
-                return Ok("Aluno Deletado com Sucesso");
+                return Ok("Aluno Deletado.");
             }
             catch (Exception)
             {
@@ -72,7 +79,5 @@ namespace DDD.Application.Api.Controllers
                 throw;
             }
         }
-
-
     }
 }

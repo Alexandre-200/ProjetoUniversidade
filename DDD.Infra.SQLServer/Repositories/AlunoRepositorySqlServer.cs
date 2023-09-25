@@ -7,35 +7,55 @@ namespace DDD.Infra.SQLServer.Repositories
 {
     public class AlunoRepositorySqlServer : IAlunoRepository
     {
-        private readonly SqlContext _context;
-        //o que é injecao de dependencia
-        public AlunoRepositorySqlServer(SqlContext apiContext)
+        private readonly SqlContext _sqlContext;
+
+        /*
+        Injeção de dependência é uma
+        técnica para livrar ou remover o acoplamento entre os objetos
+        e seus colaboradores, ou dependentes. Em vez de instanciar objetos
+        colaboradores diretamente, ou usar referências estáticas; esses
+        colaboradores são fornecidos para a classe dependente de um modo
+        particular, vá em Program.cs
+        */
+
+        public AlunoRepositorySqlServer(SqlContext sqlContext)
         {
-            _context = apiContext;
+            //construtor que faz parte da injeção de dependencia 
+            _sqlContext = sqlContext;
         }
 
         public void DeleteAluno(Aluno aluno)
         {
             try
             {
-                _context.Set<Aluno>().Remove(aluno);
-                _context.SaveChanges();
+                _sqlContext.Set<Aluno>().Remove(aluno);
+                //Retorna uma DbSet<TEntity> instância para acesso a
+                //entidades do tipo especificado no contexto e no
+                //repositório subjacente.
+
+                _sqlContext.SaveChanges();
+                // SaveChanges() -> O Entity FrameWork detecta todas
+                // as alterações sendo elas mantidas no BD 
             }
             catch (Exception e)
             {
-
                 throw;
             }
         }
 
         public Aluno GetAluno(int id)
         {
-            return _context.Alunos.Find(id);
+            return _sqlContext.Alunos.Find(id);
+            // Find -> usa a chave primária para construir a
+            // consulta SQL e a envia ao banco de dados para
+            // recuperar os dados. 
         }
 
         public List<Aluno> GetAlunos()
         {
-            var list = _context.Alunos.ToList();
+            var list = _sqlContext.Alunos.ToList();
+            //ToList() -> retorna uma lista de determinada consulta, no caso de Aluno
+
             return list;
         }
 
@@ -43,8 +63,8 @@ namespace DDD.Infra.SQLServer.Repositories
         {
             try
             {
-                _context.Alunos.Add(aluno);
-                _context.SaveChanges();
+                _sqlContext.Alunos.Add(aluno);
+                _sqlContext.SaveChanges();
             }
             catch (Exception)
             {
@@ -56,8 +76,14 @@ namespace DDD.Infra.SQLServer.Repositories
         {
             try
             {
-                _context.Entry(aluno).State = EntityState.Modified;
-                _context.SaveChanges();
+                _sqlContext.Entry(aluno).State = EntityState.Modified;
+                // EntityState.Modified -> anexa uma entidade existente
+                // porém que foi modificada ao contexto, todas as propriedades
+                // da entidade serão marcadas como modificadas e todos os valores
+                // de propriedade serão enviados para o banco de dados quando
+                // SaveChanges for chamado
+
+                _sqlContext.SaveChanges();
             }
             catch (Exception)
             {
