@@ -12,11 +12,12 @@ builder.Services.AddScoped<IDisciplinaRepository, DisciplinaRepositorySqlServer>
 builder.Services.AddScoped<SqlContext, SqlContext>();
 
 /*
-
 é aqui que a magica acontece, em builder.Services.AddScoped sempre que IAlunoRepository é 
 injetada é criada uma instância de AlunoRepositorySqlServer isso serve obviamente para as 
 linhas 9 até 12.
- 
+
+Inversão de controle -> A chamadas dos métodos é invertida em relação à programação tradicional, 
+ou seja, ela não é determinada diretamente pelo programador
 */
 
 builder.Services.AddControllers();

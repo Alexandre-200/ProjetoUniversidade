@@ -10,12 +10,9 @@ namespace DDD.Infra.SQLServer.Repositories
         private readonly SqlContext _sqlContext;
 
         /*
-        Injeção de dependência é uma
-        técnica para livrar ou remover o acoplamento entre os objetos
-        e seus colaboradores, ou dependentes. Em vez de instanciar objetos
-        colaboradores diretamente, ou usar referências estáticas; esses
-        colaboradores são fornecidos para a classe dependente de um modo
-        particular, vá em Program.cs
+        Injeção de dependência: técnica para livrar ou remover o acoplamento 
+        entre os objetos e seus colaboradores, esses colaboradores são fornecidos
+        para a classe dependente de um modo particular, vá em 2 - Application/Program.cs
         */
 
         public AlunoRepositorySqlServer(SqlContext sqlContext)

@@ -18,6 +18,7 @@ namespace DDD.Infra.SQLServer
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Matricula>().HasKey(m => new { m.AlunoId, m.DisciplinaId });
+            //HasKey() serve para indicar a chave primária, seja ela simples ou composta. 
         }
 
         //DbSet -> representa a coleção de todas as entidades no contexto ou que

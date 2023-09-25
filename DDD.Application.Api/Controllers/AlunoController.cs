@@ -4,7 +4,13 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DDD.Application.Api.Controllers
 {
-    //classe que cria os end points
+    /*
+    classe que cria os end points
+    GET: Método genérico para qualquer requisição que busca dados do servidor;
+    POST: Método genérico para qualquer requisição que envia dados ao servidor;
+    PUT: Método específico para atualização de dados no servidor
+    DELETE: Método específico para remoção de dados no servidor. 
+    */
     [Route("api/[controller]")]
     [ApiController] 
     public class AlunoController : ControllerBase
@@ -13,10 +19,10 @@ namespace DDD.Application.Api.Controllers
         readonly IAlunoRepository _alunoRepository;
 
         /*
-        Em program.cs deixamos claro que quando IAlunoRepository 
-        (onde temos apenas as assinaturas dos metodos) for utilizado 
-        na verdade estamos instanciando AlunoRepositorySqlServer
-        (classe que implementa a interface, logo implementou seus metodos         
+        Em program.cs deixamos claro que quando utlizamos IAlunoRepository 
+        (onde temos apenas as assinaturas dos metodos) na verdade estamos 
+        instanciando AlunoRepositorySqlServer
+        (classe que implementa a interface, logo implementou seus metodos)         
         */
 
         public AlunoController(IAlunoRepository alunoRepository)

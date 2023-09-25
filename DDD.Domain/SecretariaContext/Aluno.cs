@@ -11,11 +11,5 @@ namespace DDD.Domain.SecretariaContext
         tabela no DB. Vá para Interfaces/IAlunoRepository na pasta 4 - Infra 
         */
 
-        /*
-        1 - Presentation -> 
-        2 - Application -> camada responsavel por realizar a comunição com o Domain
-        3 - Domain -> 
-        4 - Infra ->
-        */
     }
 }
