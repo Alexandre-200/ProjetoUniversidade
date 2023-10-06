@@ -12,5 +12,7 @@ namespace DDD.Domain.SecretariaContext
         public bool Disponivel { get; set; }
         public bool Ead { get; set; }
 
+        public IList<Aluno>? Alunos { get; set; }
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u+qmAOSfejqXZHcMJns03skh0MVDTf6m0NvcukXDNa2sQaYA7oWy9iiPY8DKuCiv2LJN0f7tNmUSNwXPquk72g==",
+  "dgSpecHash": "JPrZid8lGP5oTRYXahumRBIUt207d9XXJ5Nu0H3WvHQFTGlk6/fe9810u3QgDzWAn2LF4COod7ZPUZHzlcSj0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Área de Trabalho\\FACULDADE\\Nova pasta\\DDD.Universidade-main\\PlataformaUniversidadeDDD\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+  "projectFilePath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

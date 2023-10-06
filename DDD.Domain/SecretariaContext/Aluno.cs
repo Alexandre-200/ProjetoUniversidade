@@ -1,4 +1,5 @@
 
+using DDD.Domain.EventoContext;
 using DDD.Domain.UserManagementContext;
 
 namespace DDD.Domain.SecretariaContext
@@ -10,6 +11,10 @@ namespace DDD.Domain.SecretariaContext
         todos os seus atributos de User, posteriormente será crianda uma 
         tabela no DB. Vá para Interfaces/IAlunoRepository na pasta 4 - Infra 
         */
+
+        public List<Disciplina>? Disciplinas { get; set; }
+
+        public List<Evento>? Eventos { get; set; }
 
     }
 }

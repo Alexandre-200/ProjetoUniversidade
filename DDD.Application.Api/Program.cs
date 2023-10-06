@@ -1,15 +1,24 @@
 using DDD.Infra.SQLServer;
 using DDD.Infra.SQLServer.Interfaces;
 using DDD.Infra.SQLServer.Repositories;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddScoped<IAlunoRepository, AlunoRepositorySqlServer>();
-builder.Services.AddScoped<IMatriculaRepository, MatriculaRepositorySqlServer>();
 builder.Services.AddScoped<IDisciplinaRepository, DisciplinaRepositorySqlServer>();
+builder.Services.AddScoped<IMatriculaRepository, MatriculaRepositorySqlServer>();
+builder.Services.AddScoped<ITipoEventosRepository, TipoEventoRepositorySqlServer>();
+builder.Services.AddScoped<IEventosRepository, EventoRepositorySqlServer>();
+builder.Services.AddScoped<IParticipacaoRepository, ParticipacaoRepositorySqlServer>();
+builder.Services.AddScoped<ITutorRepository, TutorRepositorySqlServer>();
+builder.Services.AddScoped<ITutorEventoRepository, TutorEventoRepositorySqlServer>();
 builder.Services.AddScoped<SqlContext, SqlContext>();
+
+builder.Services.AddControllers().AddJsonOptions(x =>
+   x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
 
 /*
 é aqui que a magica acontece, em builder.Services.AddScoped sempre que IAlunoRepository é 

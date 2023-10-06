@@ -32,3 +32,14 @@ C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-
 C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
 C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
 C:\Users\alexa\OneDrive\Área de Trabalho\FACULDADE\Nova pasta\DDD.Universidade-main\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\alexa\Source\Repos\ProjetoUniversidade\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
