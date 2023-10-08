@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CBQO7Cw/uUGqF4jjrh93AfYR3HIrRDpDpo9/UYUv+6Jww5lr+W6dy5Tj2QHAaOMpdjaQ2E+uFr6o+4yJufnu9A==",
+  "dgSpecHash": "V+mS9xo2r4cJK+V4Cv0v61hIR1nmdUJiwyet+Ej7RIFW6Ed2+/N5BRt5T3buYpHnjh4YA4yVb6CcjZRNinqhHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj",
+  "projectFilePath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

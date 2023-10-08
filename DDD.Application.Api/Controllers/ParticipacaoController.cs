@@ -24,22 +24,22 @@ namespace DDD.Application.Api.Controllers
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<Participacao> CreateParticipacao(int idAluno, int idEvento)
+        public ActionResult<Participacao> CreateParticipacao(int idTutor, int idEvento)
         {
-            Participacao participacaoIdSaved = _participacaoRepository.InsertParticipacao(idAluno, idEvento);
+            Participacao participacaoIdSaved = _participacaoRepository.InsertParticipacao(idTutor, idEvento);
             return CreatedAtAction(nameof(GetById), new { id = participacaoIdSaved.ParticipacaoId }, participacaoIdSaved);
         }
 
         [HttpPut]
-        public ActionResult Put([FromBody] Participacao participacao)
+        public ActionResult Put([FromBody] Participacao tutorEvento)
         {
             try
             {
-                if (participacao == null)
+                if (tutorEvento == null)
                     return NotFound();
 
-                _participacaoRepository.UpdateParticipacao(participacao);
-                return Ok("Participação Atualizada.");
+                _participacaoRepository.UpdateParticipacao(tutorEvento);
+                return Ok("Tutor Atualizado.");
             }
             catch (Exception ex)
             {

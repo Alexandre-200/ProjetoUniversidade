@@ -17,7 +17,6 @@ namespace DDD.Domain.EventoContext
         public int TipoEventosId { get; set; }
         public TipoEvento? TipoEventos { get; set; }
         public IList<Aluno>? Alunos { get; set; }
-
         public IList<Tutor>? Tutors { get; set; }
     }
 }

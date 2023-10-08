@@ -11,8 +11,8 @@ namespace DDD.Infra.SQLServer.Interfaces
     {
         public Participacao GetParticipacaoById(int id);
 
-        public Participacao InsertParticipacao(int idAluno, int idEvento);
+        public Participacao InsertParticipacao(int idTutor, int idEvento);
 
-        public void UpdateParticipacao(Participacao participacao);
+        public void UpdateParticipacao(Participacao tutorEvento);
     }
 }

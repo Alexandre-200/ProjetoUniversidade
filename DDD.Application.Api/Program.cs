@@ -12,9 +12,9 @@ builder.Services.AddScoped<IDisciplinaRepository, DisciplinaRepositorySqlServer>
 builder.Services.AddScoped<IMatriculaRepository, MatriculaRepositorySqlServer>();
 builder.Services.AddScoped<ITipoEventosRepository, TipoEventoRepositorySqlServer>();
 builder.Services.AddScoped<IEventosRepository, EventoRepositorySqlServer>();
-builder.Services.AddScoped<IParticipacaoRepository, ParticipacaoRepositorySqlServer>();
+builder.Services.AddScoped<IInscricaoRepository, InscricaoRepositorySqlServer>();
 builder.Services.AddScoped<ITutorRepository, TutorRepositorySqlServer>();
-builder.Services.AddScoped<ITutorEventoRepository, TutorEventoRepositorySqlServer>();
+builder.Services.AddScoped<IParticipacaoRepository, ParticipacaoRepositorySqlServer>();
 builder.Services.AddScoped<SqlContext, SqlContext>();
 
 builder.Services.AddControllers().AddJsonOptions(x =>

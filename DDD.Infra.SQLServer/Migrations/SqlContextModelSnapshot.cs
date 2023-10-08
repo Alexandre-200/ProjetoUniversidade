@@ -49,13 +49,13 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.ToTable("Eventos");
                 });
 
-            modelBuilder.Entity("DDD.Domain.EventoContext.Participacao", b =>
+            modelBuilder.Entity("DDD.Domain.EventoContext.Inscricao", b =>
                 {
-                    b.Property<int>("ParticipacaoId")
+                    b.Property<int>("InscricaoId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ParticipacaoId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("InscricaoId"));
 
                     b.Property<int>("AlunoId")
                         .HasColumnType("int");
@@ -66,13 +66,39 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Property<int>("EventoId")
                         .HasColumnType("int");
 
-                    b.HasKey("ParticipacaoId");
+                    b.HasKey("InscricaoId");
 
                     b.HasIndex("AlunoId");
 
                     b.HasIndex("EventoId");
 
-                    b.ToTable("Participacaos");
+                    b.ToTable("Inscricoes");
+                });
+
+            modelBuilder.Entity("DDD.Domain.EventoContext.Participacao", b =>
+                {
+                    b.Property<int>("ParticipacaoId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ParticipacaoId"));
+
+                    b.Property<DateTime>("DataInscricao")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("EventoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TutorId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ParticipacaoId");
+
+                    b.HasIndex("EventoId");
+
+                    b.HasIndex("TutorId");
+
+                    b.ToTable("Participacoes");
                 });
 
             modelBuilder.Entity("DDD.Domain.EventoContext.TipoEvento", b =>
@@ -90,32 +116,6 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.HasKey("TipoEventoId");
 
                     b.ToTable("TipoEventos");
-                });
-
-            modelBuilder.Entity("DDD.Domain.EventoContext.TutorEvento", b =>
-                {
-                    b.Property<int>("TutorEventoId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TutorEventoId"));
-
-                    b.Property<DateTime>("DataInscricao")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("EventoId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("TutorId")
-                        .HasColumnType("int");
-
-                    b.HasKey("TutorEventoId");
-
-                    b.HasIndex("EventoId");
-
-                    b.HasIndex("TutorId");
-
-                    b.ToTable("TutorEventos");
                 });
 
             modelBuilder.Entity("DDD.Domain.PicContext.Projeto", b =>
@@ -277,7 +277,7 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Navigation("TipoEventos");
                 });
 
-            modelBuilder.Entity("DDD.Domain.EventoContext.Participacao", b =>
+            modelBuilder.Entity("DDD.Domain.EventoContext.Inscricao", b =>
                 {
                     b.HasOne("DDD.Domain.SecretariaContext.Aluno", "Aluno")
                         .WithMany()
@@ -296,7 +296,7 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Navigation("Evento");
                 });
 
-            modelBuilder.Entity("DDD.Domain.EventoContext.TutorEvento", b =>
+            modelBuilder.Entity("DDD.Domain.EventoContext.Participacao", b =>
                 {
                     b.HasOne("DDD.Domain.EventoContext.Evento", "Evento")
                         .WithMany()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
+    "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj": {
+    "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj",
         "projectName": "DDD.Application.Api",
-        "projectPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj",
+        "projectPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Application.Api\\DDD.Application.Api.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Application.Api\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Application.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
-                "projectPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
+              "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+                "projectPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj": {
+    "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj",
         "projectName": "DDD.Domain",
-        "projectPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj",
+        "projectPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Domain\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
+    "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
         "projectName": "DDD.Infra.SQLServer",
-        "projectPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
+        "projectPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\DDD.Infra.SQLServer.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Infra.SQLServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,8 +157,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\alexa\\Source\\Repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj"
+              "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\alexa\\source\\repos\\ProjetoUniversidade\\DDD.Domain\\DDD.Domain.csproj"
               }
             }
           }
