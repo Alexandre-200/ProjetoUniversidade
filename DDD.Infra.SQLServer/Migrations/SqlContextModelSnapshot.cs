@@ -89,14 +89,14 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.Property<int>("EventoId")
                         .HasColumnType("int");
 
-                    b.Property<int>("TutorId")
+                    b.Property<int>("ParticipanteId")
                         .HasColumnType("int");
 
                     b.HasKey("ParticipacaoId");
 
                     b.HasIndex("EventoId");
 
-                    b.HasIndex("TutorId");
+                    b.HasIndex("ParticipanteId");
 
                     b.ToTable("Participacoes");
                 });
@@ -241,11 +241,11 @@ namespace DDD.Infra.SQLServer.Migrations
                     b.UseTpcMappingStrategy();
                 });
 
-            modelBuilder.Entity("DDD.Domain.EventoContext.Tutor", b =>
+            modelBuilder.Entity("DDD.Domain.EventoContext.Participante", b =>
                 {
                     b.HasBaseType("DDD.Domain.UserManagementContext.User");
 
-                    b.ToTable("Tutors");
+                    b.ToTable("Participantes");
                 });
 
             modelBuilder.Entity("DDD.Domain.PicContext.Pesquisador", b =>
@@ -304,15 +304,15 @@ namespace DDD.Infra.SQLServer.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("DDD.Domain.EventoContext.Tutor", "Tutor")
+                    b.HasOne("DDD.Domain.EventoContext.Participante", "Participante")
                         .WithMany()
-                        .HasForeignKey("TutorId")
+                        .HasForeignKey("ParticipanteId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Evento");
 
-                    b.Navigation("Tutor");
+                    b.Navigation("Participante");
                 });
 
             modelBuilder.Entity("DDD.Domain.PicContext.Projeto", b =>

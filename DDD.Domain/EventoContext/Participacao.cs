@@ -9,8 +9,8 @@ namespace DDD.Domain.EventoContext
     public class Participacao
     {
         public int ParticipacaoId { get; set; }
-        public int TutorId { get; set; }
-        public Tutor Tutor { get; set; }
+        public int ParticipanteId { get; set; }
+        public Participante Participante { get; set; }
         public int EventoId { get; set; }
         public Evento Evento { get; set; }
         public DateTime DataInscricao { get; set; }

@@ -36,7 +36,7 @@ namespace DDD.Infra.SQLServer
                 .WithMany(a => a.Alunos)
                 .UsingEntity<Inscricao>();
 
-            modelBuilder.Entity<Tutor>()
+            modelBuilder.Entity<Participante>()
                 .HasMany(e => e.Eventos)
                 .WithMany(a => a.Tutors)
                 .UsingEntity<Participacao>();
@@ -65,7 +65,7 @@ namespace DDD.Infra.SQLServer
 
         public DbSet<Inscricao> Inscricoes { get; set; }
 
-        public DbSet<Tutor> Tutors { get; set; }
+        public DbSet<Participante> Participantes { get; set; }
 
         public DbSet<Participacao> Participacoes { get; set; }
 

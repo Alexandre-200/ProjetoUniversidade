@@ -13,7 +13,7 @@ builder.Services.AddScoped<IMatriculaRepository, MatriculaRepositorySqlServer>()
 builder.Services.AddScoped<ITipoEventosRepository, TipoEventoRepositorySqlServer>();
 builder.Services.AddScoped<IEventosRepository, EventoRepositorySqlServer>();
 builder.Services.AddScoped<IInscricaoRepository, InscricaoRepositorySqlServer>();
-builder.Services.AddScoped<ITutorRepository, TutorRepositorySqlServer>();
+builder.Services.AddScoped<IParticipanteRepository, ParticipanteRepositorySqlServer>();
 builder.Services.AddScoped<IParticipacaoRepository, ParticipacaoRepositorySqlServer>();
 builder.Services.AddScoped<SqlContext, SqlContext>();
 

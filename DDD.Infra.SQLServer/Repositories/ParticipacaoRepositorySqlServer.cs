@@ -24,20 +24,20 @@ namespace DDD.Infra.SQLServer.Repositories
             return _sqlContext.Participacoes.Find(id);
         }
 
-        public Participacao InsertParticipacao(int idEventoTutor, int idEvento)
+        public Participacao InsertParticipacao(int idParticipante, int idEvento)
         {
-            var tutor = _sqlContext.Tutors.First(a => a.UserId == idEventoTutor);
+            var participante = _sqlContext.Participantes.First(a => a.UserId == idParticipante);
             var evento = _sqlContext.Eventos.First(e => e.EventoId == idEvento);
 
-            var tutorEvento = new Participacao
+            var participacao = new Participacao
             {
-                Tutor = tutor,
+                Participante = participante,
                 Evento = evento
             };
 
             try
             {
-                _sqlContext.Add(tutorEvento);
+                _sqlContext.Add(participacao);
                 _sqlContext.SaveChanges();
             }
             catch (Exception ex)
@@ -46,7 +46,7 @@ namespace DDD.Infra.SQLServer.Repositories
                 throw;
             }
 
-            return tutorEvento;
+            return participacao;
         }
 
 
