@@ -38,13 +38,12 @@ namespace DDD.Infra.SQLServer
 
             modelBuilder.Entity<Participante>()
                 .HasMany(e => e.Eventos)
-                .WithMany(a => a.Tutors)
+                .WithMany(a => a.Participantes)
                 .UsingEntity<Participacao>();
 
             modelBuilder.Entity<TipoEvento>()
                 .HasMany(e => e.Eventos)
                 .WithOne(e => e.TipoEventos)
-                .HasForeignKey(e => e.TipoEventosId)
                 .HasPrincipalKey(e => e.TipoEventoId);
 
         }

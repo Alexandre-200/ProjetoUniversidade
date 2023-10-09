@@ -21,9 +21,9 @@ builder.Services.AddControllers().AddJsonOptions(x =>
    x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
 
 /*
-é aqui que a magica acontece, em builder.Services.AddScoped sempre que IAlunoRepository é 
+é aqui que a mágica acontece, em builder.Services.AddScoped sempre que IAlunoRepository é 
 injetada é criada uma instância de AlunoRepositorySqlServer isso serve obviamente para as 
-linhas 9 até 12.
+linhas 10 até 18.
 
 Inversão de controle -> A chamadas dos métodos é invertida em relação à programação tradicional, 
 ou seja, ela não é determinada diretamente pelo programador

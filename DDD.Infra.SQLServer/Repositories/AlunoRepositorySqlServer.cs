@@ -17,7 +17,6 @@ namespace DDD.Infra.SQLServer.Repositories
 
         public AlunoRepositorySqlServer(SqlContext sqlContext)
         {
-            //construtor que faz parte da injeção de dependencia 
             _sqlContext = sqlContext;
         }
 
@@ -74,12 +73,13 @@ namespace DDD.Infra.SQLServer.Repositories
             try
             {
                 _sqlContext.Entry(aluno).State = EntityState.Modified;
-                // EntityState.Modified -> anexa uma entidade existente
-                // porém que foi modificada ao contexto, todas as propriedades
-                // da entidade serão marcadas como modificadas e todos os valores
-                // de propriedade serão enviados para o banco de dados quando
-                // SaveChanges for chamado
-
+                /*
+                EntityState.Modified -> anexa uma entidade existente
+                porém que foi modificada ao contexto, todas as propriedades
+                da entidade serão marcadas como modificadas e todos os valores
+                de propriedade serão enviados para o banco de dados quando
+                SaveChanges for chamado
+                */
                 _sqlContext.SaveChanges();
             }
             catch (Exception)
